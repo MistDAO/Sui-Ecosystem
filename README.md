@@ -8,11 +8,11 @@ Want to follow all these projects on twitter? Check out our Sui Ecosystem Twitte
 
 Now projects are listing directly on the Sui Developer forum here https://t.co/AVIy1gk1Yu (list your project here) https://t.co/lQb420ij5H
 
-📰 News
+# 📰 News
 
 Next Move
 
-🕊️ Twitter
+## 🕊️ Twitter
 
 Sui News on Twitter https://twitter.com/SuiEcoNews
 
@@ -26,23 +26,23 @@ Sui Daily https://twitter.com/SuiDailyTK
 
 Suipiens https://twitter.com/suipiens
 
- Communities
+# Communities
 
 MoveDAO (hosted Sui supported MoveCon) https://twitter.com/MoveDAO_
 
 Movinian https://twitter.com/Movinian 
 
-🌏 Regional Communities
+## 🌏 Regional Communities
 
 Sui World DAO
 
-Devshops
+## Devshops
 
 Halcyon, Web3 Devshop https://halcyon.builders/ 
 
-🚧 Infrastructure	
+# 🚧 Infrastructure	
 
-Oracles
+## Oracles
 
 Pyth Network
 
@@ -50,7 +50,7 @@ SupraOracles https://twitter.com/SupraOracles
 
 Metaoraclee
 
-Staking
+## Staking
 
 Staketab
 
@@ -58,21 +58,21 @@ Mni Finance (liquid staking derivatives protocol)
 
 Tortuga Finance (Liquid Staking)
 
-Bridge
+## Bridge
 
 OnjectID
 
 Cetus (Sup & Aptos Swap/Bridge)
 
-Name Service
+## Name Service
 
 SuiNS https://suins.io/
 
-Dev Tooling
+## Dev Tooling
 
  
 
- Gaming
+# Gaming
 
 Abbys World
 
@@ -96,13 +96,13 @@ Farm Wars
 
 Final Stardust
 
- Cross Chain Compatibility
+# Cross Chain Compatibility
 
 Solana VM
 
-🖼️ NFT
+# 🖼️ NFT
 
-NFT Marketplace
+## NFT Marketplace
 
 Souffl3 https://twitter.com/nft_souffl3
 
@@ -118,21 +118,21 @@ Keepsake (Gaming) https://keepsake.gg/
 
 Sui Gallery https://www.sui.gallery/ 
 
-NFT Launchpad
+## NFT Launchpad
 
 Tocen https://tocen.co/
 
-NFT Trading
+## NFT Trading
 
-NFT Explorer
+## NFT Explorer
 
 Suia https://suia.io/home/activity
 
-NFT Analytics
+## NFT Analytics
 
 NFTFi (NFT Dex) https://nftfi.com/
 
-NFT Collections
+## NFT Collections
 
 Suivivors (Dynamic NFT Collection) https://twitter.com/suivivors
 
@@ -152,7 +152,7 @@ AI Enhanced Collections https://twitter.com/eggworld_sui
 
 Sui Nerd Club
 
-👛 Wallet
+# 👛 Wallet
 
 Suiet https://suiet.app/ 
 
@@ -172,9 +172,9 @@ Glass Wallet https://chrome.google.com/webstore/detail/glass-wallet-sui-wallet/l
 
 Buzz (Social Wallet) https://buzzwallet.io/ (not sure if launched)
 
-📊 DeFI
+# 📊 DeFI
 
-AMM
+## AMM
 
 Cetus CLMM Dex (Aptos+Sui) https://twitter.com/CetusProtocol
 
@@ -204,32 +204,31 @@ Wisp Swap https://www.wispswap.io/
 
 Bayswap https://bayswap.io/
 
-Cex
+## Cex
 
 Aftermath Finance https://aftermath.finance/
 
-Lending
+## Lending
 
 Abel Finance https://www.abelfinance.xyz/
 
-Launchpads
-
+##Launchpads
 BeLaunch https://belaunch.io/ (seems a little ruggy)
 
 -SeaPad https://twitter.com/SeaPad_defi 
 
-Aggregator
+## Aggregator
 
 EZ Finance https://linktr.ee/ez_finance
 
-Trading
+## Trading
 
 Suiview https://suiview.xyz/ 
 
-🏛️ DAO
+# 🏛️ DAO
 
 
-dApps
+# dApps
 
 SoWork
 
